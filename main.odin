@@ -61,12 +61,6 @@ main :: proc() {
                 hand = "res/icons/pointing_hand.png",
             },
             {
-                title = "@neraid_live",
-                icon_url = "res/icons/x.png",
-                url = "https://x.com/neraid_live",
-                hand = "res/icons/middle_finger.png",
-            },
-            {
                 title = "contato@neraid.live",
                 icon_url = "res/icons/email.png",
                 url = "mailto:contato@neraid.live",
